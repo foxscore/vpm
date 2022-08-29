@@ -1,0 +1,19 @@
+{
+    "name": "VRC.FVPM",
+    "references": [
+        "GUID:4a14228a31f0f894f95efb567205fb8c"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [
+        ""
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
